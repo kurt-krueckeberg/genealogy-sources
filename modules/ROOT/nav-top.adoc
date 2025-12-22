@@ -1,7 +1,6 @@
 .xref:index.adoc[]
 * xref:adams-co.adoc[]
 * xref:allen-county-in.adoc[]
-* xref:baden-wuerttemberg.adoc[]
 * xref:gen-center.adoc[]
 * xref:german.adoc[]
 * xref:guides.adoc[]
