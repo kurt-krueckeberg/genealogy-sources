@@ -1,8 +1,8 @@
 = Indiana Historic Cemeteries
 
 The link:https://www.in.gov/dnr/historic-preservation/[Division of Historic Preservation & Archaeology] within the
-link:https://www.in.gov/dnr[Indiana Department of Natural Resources (DNR)] maintains a Cemetery & Burial Ground Registry
-for all Indiana cemeteries and burial grounds, not just “historic” cemeteries. 
+link:https://www.in.gov/dnr[Indiana Department of Natural Resources (DNR)] maintains a *Cemetery & Burial Ground
+Registry* for all Indiana cemeteries and burial grounds, not just “historic” cemeteries. 
 
 Navigation: link:https://www.in.gov/dnr/historic-preservation/[Indiana Department of Natural Resources] -> 
 link:https://www.in.gov/dnr/historic-preservation/cemeteries[Cemeteries].
