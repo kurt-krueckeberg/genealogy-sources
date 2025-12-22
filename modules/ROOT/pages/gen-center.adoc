@@ -1,9 +1,12 @@
 = Genealogy Center
-These database lists were taken from link:https://acpl.lib.in.us/explore-genealogy/our-resources[about Our Databses]
 
-List of https://acpl.lib.in.us/images/Documents/Gendocs/platmap.pdf[Allen County Plat books] in Genalogy Center. some have links to onloine versions from specific years.
+== Plat Books
+
+link:https://acpl.lib.in.us/images/Documents/Gendocs/platmap.pdf[Allen County Plat books].
 
 == Free Databases:
+
+These database lists were taken from link:https://acpl.lib.in.us/explore-genealogy/our-resources[about Our Databses]
 
 .free databases
 [cols="1,2",frame="none",grid="rows"]
