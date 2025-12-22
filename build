@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+set -e
+
+echo "=== Antora Build Started: $(date) ==="
+#
+#
+# 1. CLEAN PREVIOUS BUILD
+#
+echo "Cleaning previous build..."
+rm -rf /home/kurt/genealogy-sources/public
+
+#
+# 2. GIT PULL FROM REPO
+#
+echo "Updating genealogy sources repo..."
+cd /home/kurt/genealogy-srouces
+git pull
+
+#
+# 3. RUN ANTORA BUILD
+#
+echo "Running Antora build..."
+cd /home/kurt/genealogy-srouces
+
+# Using npx directly (cleaner, safer, systemd-friendly)
+npx --max-old-space-size=4096 antora local-playbook.yml
+
+#
+# 4. COPY FONTS
+#
+echo "Copying fonts..."
+cp /home/kurt/genealogy-srouces/fonts/* \
+   /home/kurt/genealogy-srouces/public/_/font/
+
+#
+# 5. DEPLOY TO WEB DIRECTORY
+# (kurt must own this directory — no sudo in automated scripts)
+#
+echo "Deploying to /var/www/krueckeberg.org/nla..."
+rm -rf /var/www/krueckeberg.org/srcs/*
+cp -r /home/kurt/genealogy-srouces/public \
+      /var/www/krueckeberg.org/srcs
+
+echo "=== Antora Build Completed: $(date) ==="
