@@ -6,11 +6,6 @@ cemeteries. See its link:https://www.in.gov/dnr/historic-preservation/cemeteries
 
 == *How To Access the Data*
 
-* Cemetery information, including historic and former cemetery entries,
-is available through the *Indiana State Historic Architectural and
-Archaeological Research Database (SHAARD)*.
-(https://www.in.gov/dnr/historic-preservation/county-survey-program/shaard-database/?utm_source=chatgpt.com[Government
-of India])
-* Within SHAARD, these records may appear as individual entries with
-location information, descriptive data, and sometimes survey forms and
-general condition notes.
+The link:https://www.in.gov/dnr/historic-preservation/county-survey-program/shaard-database[Indiana State Historic
+Architectural and Archaeological Research Database (SHAARD)]
+
