@@ -13,7 +13,7 @@ rm -rf /home/kurt/genealogy-sources/public
 # 2. GIT PULL FROM REPO
 #
 echo "Updating genealogy sources repo..."
-cd /home/kurt/genealogy-srouces
+cd /home/kurt/genealogy-sources
 git pull
 
 #
