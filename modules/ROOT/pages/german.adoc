@@ -121,7 +121,10 @@ http://wiki- de.genealogy.net/Hauptseite
 
 * https://nvk.genealogy.net/map[German Surname Distribution Map]
 
- Enables you to map the primary locations your surname was found in 1890 and 1996
+[quote]
+____
+Enables you to map the primary locations your surname was found in 1890 and 1996
+____
 
 
 *Geogen:* This is another website to map locations where your surnames
