@@ -20,7 +20,7 @@ git pull
 # 3. RUN ANTORA BUILD
 #
 echo "Running Antora build..."
-cd /home/kurt/genealogy-srouces
+cd /home/kurt/genealogy-sources
 
 # Using npx directly (cleaner, safer, systemd-friendly)
 npx --max-old-space-size=4096 antora local-playbook.yml
@@ -29,8 +29,8 @@ npx --max-old-space-size=4096 antora local-playbook.yml
 # 4. COPY FONTS
 #
 echo "Copying fonts..."
-cp /home/kurt/genealogy-srouces/fonts/* \
-   /home/kurt/genealogy-srouces/public/_/font/
+cp /home/kurt/genealogy-sources/fonts/* \
+   /home/kurt/genealogy-sources/public/_/font/
 
 #
 # 5. DEPLOY TO WEB DIRECTORY
@@ -38,7 +38,7 @@ cp /home/kurt/genealogy-srouces/fonts/* \
 #
 echo "Deploying to /var/www/krueckeberg.org/nla..."
 rm -rf /var/www/krueckeberg.org/srcs/*
-cp -r /home/kurt/genealogy-srouces/public \
+cp -r /home/kurt/genealogy-sources/public \
       /var/www/krueckeberg.org/srcs
 
 echo "=== Antora Build Completed: $(date) ==="
