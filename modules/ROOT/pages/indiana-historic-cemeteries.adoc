@@ -16,6 +16,10 @@ Buildings, Bridges, and Cemeteries (IHBBC) Map].
 The link:https://www.in.gov/dnr/historic-preservation/cemeteries[Cemeteries] page has line to the
 The data is also linked to the Indiana Historic Buildings, Bridges, and Cemeteries (IHBBC) Map
 
-== *How To Access the Data*
+== How To SHAARD and IHBBC
+
+=== SHAARD
+
+You can access this database a a "Guest". 
 
 
