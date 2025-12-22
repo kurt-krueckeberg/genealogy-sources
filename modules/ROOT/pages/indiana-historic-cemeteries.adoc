@@ -6,7 +6,7 @@ link:https://www.in.gov/dnr/historic-preservation/county-survey-program/shaard-d
 Registry] for all Indiana cemeteries and burial grounds, not just “historic” cemeteries. 
 
 If you go to link:https://www.in.gov/dnr/historic-preservation/[Indiana Department of Natural Resources] -> 
-link:https://www.in.gov/dnr/historic-preservation/cemeteries[Cemeteries], and you will see links to
+link:https://www.in.gov/dnr/historic-preservation/cemeteries[Cemeteries], you will see links to
 
 * The link:https://secure.in.gov/apps/dnr/shaard/welcome.html[Indiana State Historic Architectural and
   Archaeological Research Database (SHAARD)], and
