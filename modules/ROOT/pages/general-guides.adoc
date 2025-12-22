@@ -1,6 +1,6 @@
-= Genealogy Research
+= General Guides to Genealogy Research
 
-== Guides
+Here is a list of general guides to genealogical research:
 
 * link:https://www.familysearch.org/en/wiki/Main_Page[FamilySearch wiki] has locality surveys detailed record collection in
 each U.S. county. The also have guides to research in most areas of the world.
