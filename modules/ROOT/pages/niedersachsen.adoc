@@ -1,4 +1,4 @@
-==== Niedersachsen Sources
+= Niedersachsen Sources
 
 - https://www.familienkunde-niedersachsen.de/[Familienkund Nidersachsen]
 - https://www.familysearch.org/de/wiki/Niedersachsen_Genealogie [FamilySearch:German Version:Nidersachsen Genealogie]
@@ -8,7 +8,7 @@
 - http://www.westpreussen.de/[Familenforschung in Westpreußen]
 - https://wiki.genealogy.net/Nieders%C3%A4chsischer_Landesverein_f%C3%BCr_Familienkunde_e.V._(NLF[Niedersächsicher Landesverein für Familenkunde]
 
-==== Schaumburg-Lippe Kirchenbücher
+== Schaumburg-Lippe Kirchenbücher
 
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe haben auf Archion zur Verfügung gestellt. Das heiß, dass man die Kirchenbücher für die folgende Städte: 
 

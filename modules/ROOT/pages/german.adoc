@@ -4,7 +4,7 @@ General:
 
 The book *Finding Your German Ancestor's, A Beginner's Guide* by Kevan A Hansen is an exellent short inntroduction.
 
-===  List of German Research Resources
+==  List of German Research Resources
 
 todo: Move these resources to the appropriate section.
 
@@ -46,7 +46,7 @@ help you communicate in German.
 
 * https://www.familysearch.org/en/wiki/Germany_Archives_and_Libraries[Archives and Libraries]
 
-=== Ortsippenbücher or Ortfamilienbücher
+== Ortsippenbücher or Ortfamilienbücher
 
 These books focus on one town/village, and are a compilation of all family data for people who
 lived in that village, generally using church records as a source. 
@@ -82,7 +82,7 @@ these books digitized and online https://ofb.genealogy.net/[Ortsippenbücher].
 
  Over 1,000 local family books are available online. On average, 5 to 10 new books are added every month.
 
-=== CompGen and Verein für Computergenealogie
+== CompGen and Verein für Computergenealogie
 
 * DigiBib (Digital Library): Digitized books such as directories,
 government and church histories, etc.
@@ -132,17 +132,17 @@ this online handwriting generator to see what the name or village you’re
 searching for should look like, enabling you to scan records more
 quickly.
 
-=== Familienforschung Database
+== Familienforschung Database
 
 https://gedbas.genealogy.net/
 
-=== Contacts in Germany
+== Contacts in Germany
 
 https:///www.vennekohl.de[Vennekohl.de]
  
 file:///home/kurt/g/lectures/Expanding_Your_German_Research_Beyond_Ancestry_and_FamilySearch-handout.pdf[Expanding Your German Research Beyond Ancestry and FamilySearch]
 
-=== German Verein Liste
+== German Verein Liste
 
 Liste von https://www.familienkunde-oldenburg.de/recherche/genealogische-vereine-im-norden-deutschlands/[Genealogische Vereine im Norden Deutschlands].
 
@@ -164,14 +164,14 @@ Hesse:
 
 - link:https://www.hfv-ev.de/[Hessische familiengeschichtliche Vereinigung (HfV)]
 
-=== Websites for Specific Areas
+== Websites for Specific Areas
 
 - https://www.aegilops.com/slp/index.html[Schaumburg-Lippe Genealogy]
 
 - https://www.nhv-lippe.de/fileadmin/user_upload/Sonderver%C3%B6ffentlichungen/%C3%9Cbersicht_lieferbare_B%C3%A4nde_SV_Internet.pdf[Publications of the Naturwissenschaftlichen und
   HIstorischen Vereins für das Land Lipp e. V.]
 
-=== Church Registers
+== Church Registers
 
 *Archion:* does have a 20-day pass that allows you to pause and resume.
 
@@ -195,7 +195,7 @@ The Genealogy Center has thes Map Guides. In particular, for these kingdoms of i
 
 - If needed, get url for volume for northern germany near minden, etc. 
 
-=== Wuerttemberg
+== Wuerttemberg
 
 Württemberg has a lot of research sites because they kept more family data than other kingdoms. The Family Search wiki's
 https://www.familysearch.org/en/wiki/W%C3%BCrttemberg,_German_Empire_Genealogy[Württemberg, German Empire Genealogy] has numerous links to them.
