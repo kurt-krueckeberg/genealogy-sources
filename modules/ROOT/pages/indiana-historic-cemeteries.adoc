@@ -18,8 +18,11 @@ The data is also linked to the Indiana Historic Buildings, Bridges, and Cemeteri
 
 == How To SHAARD and IHBBC
 
-=== SHAARD
+=== SHAARD Steps
 
-You can access this database a a "Guest". 
-
-
+[arabic]
+. You can access this database as a guest ("Enter SHAARD as a guest).  
+. Choose Survey Type of "Cemetery Register"
+. Specify County of *Allen* Legal Townshop of *Marion*.
+. Click *Search* and wait because the site is slow.
+. Look for the *Historic Name* of "Saint John's Evangelical Lutheran" with *Address" of "Wayne Trace".
