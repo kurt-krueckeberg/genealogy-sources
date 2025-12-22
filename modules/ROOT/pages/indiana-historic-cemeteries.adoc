@@ -1,11 +1,10 @@
 = Indiana Historic Cemeteries
 
-The *Indiana Department of Natural Resources (DNR)* — specifically
-its *Division of Historic Preservation & Archaeology (DHPA)* —
-*maintains a registry of cemeteries and burial grounds* that includes
-known sites across the state, and this *does encompass historic
-cemeteries, including those that _formerly existed_* if their locations
-have been documented.
+The *Indiana Department of Natural Resources (DNR)'s* *Division of Historic
+Preservation & Archaeology (DHPA)* maintains a registry of cemeteries and
+burial grounds that includes known sites across the state, and this *does
+encompass historic cemeteries, including those that _formerly existed_* if their
+locations have been documented.
 (https://www.in.gov/dnr/historic-preservation/cemeteries/?utm_source=chatgpt.com[Government
 of Indiana])
 
