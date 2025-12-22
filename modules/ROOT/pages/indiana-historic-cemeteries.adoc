@@ -14,27 +14,3 @@ of India])
 * Within SHAARD, these records may appear as individual entries with
 location information, descriptive data, and sometimes survey forms and
 general condition notes.
-
-== *Mapping Tools*
-
-* Some cemetery locations (including historic ones) are shown on the
-*Indiana Historic Buildings, Bridges, and Cemeteries (IHBBC) Map*, a GIS
-viewer linked to SHAARD data.
-(https://www.in.gov/dnr/historic-preservation/county-survey-program/shaard-database/?utm_source=chatgpt.com[Government
-of India])
-* Note that *not all historic or former cemeteries are mapped* if
-precise geographic coordinates are unknown; some may have a registry
-entry without a point on the map.
-(https://www.in.gov/dnr/historic-preservation/cemeteries/?utm_source=chatgpt.com[Government
-of India])
-
-== *Supplemental Sources*
-
-In addition to the DNR/DHPA registry, you may find information about
-historic and former cemeteries from other Indiana sources that compile
-cemetery data, such as:
-
-* *Indiana Cemetery Locator File* at the Indiana State Library — a
-searchable list of cemetery names and locations.
-(https://www.statelib.lib.in.us/cemetery/cemetery_search.asp?utm_source=chatgpt.com[Indiana
-State Library])
