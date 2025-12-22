@@ -117,7 +117,7 @@ tell when searching in the database whether the research results are of interest
 ____
 
 * GenWiki: Includes articles on many German genealogy-related topics
-http://wiki- de.genealogy.net/Hauptseite
+http://wiki.genealogy.net/Hauptseite
 
 * https://nvk.genealogy.net/map[German Surname Distribution Map]
 
