@@ -215,18 +215,3 @@ More about using this collection
 This collection is based on older microfilms. Under "Browse this collection,” select the City or District and then the Description and Year Range for the desired records.
 ____
 
-=== Hesse
-
-include::./hesse.adoc[]
-
-=== Niedersachsen/Schaumburg
-
-include::./niedersachsen.adoc[]
-
-=== Baden Wuerttemberg
-
-include::./baden-wuerttemberg.adoc[]
-
-=== 
-
-include::./nrw.adoc[]

@@ -1,5 +1,4 @@
 = Genealogy Center
-
 These database lists were taken from link:https://acpl.lib.in.us/explore-genealogy/our-resources[about Our Databses]
 
 List of https://acpl.lib.in.us/images/Documents/Gendocs/platmap.pdf[Allen County Plat books] in Genalogy Center. some have links to onloine versions from specific years.
@@ -149,9 +148,7 @@ Also featured are images from the Firefighter Collection and local wills.
 |Allen|Mortgages 1846-1886|18|35mm Film|Indiana
 |===
 
-== Allen County Resource Online
-
-=== Allen County City Directories
+== Allen County City Directories
 
 The Genealogy Center's collection of Allen county, Indiana, Directories, which begins with the 1858-1859 edition up to and through 1923 edition, have been digitized by Archive.org and are avilable online.
 

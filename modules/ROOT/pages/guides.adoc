@@ -1,7 +1,5 @@
 = Genealogy Research
 
-include::inc/nara.adoc[] <-- Don't do an include
-
 == Guides
 
 * link:https://www.familysearch.org/en/wiki/Main_Page[FamilySearch wiki] has locality surveys detailed record collection in
