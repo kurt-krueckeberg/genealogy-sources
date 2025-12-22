@@ -25,4 +25,19 @@ The data is also linked to the Indiana Historic Buildings, Bridges, and Cemeteri
 . Choose *Survey Type* of "Cemetery Register"
 . Specify *County* of "Allen" and *Legal Townshop* of "Marion".
 . Click *Search* and wait because the site is slow.
-. Look for the *Historic Name* of "Saint John's Evangelical Lutheran" with *Address" of "Wayne Trace".
+. Look for the *Historic Name* of "Saint John's Evangelical Lutheran" with *Address* of "Wayne Trace".
+
+[NOTE]
+====
+The survey number for "Saint John's Evangelical Lutheran" is *CR-02-53*.
+====
+
+=== IHBBC Map Steps
+
+[arabic]
+. Access the link:https://gisdata.in.gov/portal/apps/webappviewer/index.html?id=5f2c93ba15a6423b906fec4a2e986b85[Indiana
+Historic Buildings, Bridges, and Cemeteries (IHBBC) Map].
+. Wait until the pop-up shows up, which you have to check on. The site is slow.
+. Go the area just north of the intersection of Wayne Trace with I-469.
+. Enlarge the view of the area just north of the intersection
+. Wait! It takes a while before the icons show up.
