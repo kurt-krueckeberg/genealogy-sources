@@ -38,8 +38,3 @@ cemetery data, such as:
 searchable list of cemetery names and locations.
 (https://www.statelib.lib.in.us/cemetery/cemetery_search.asp?utm_source=chatgpt.com[Indiana
 State Library])
-* *Third-party cemetery registries* that collate verified or unverified
-historic cemetery entries statewide.
-(https://cemeteryregistry.us/find-a-cemetery/indiana-cemeteries?utm_source=chatgpt.com[CemeteryRegistry.US])
-* *Local historical societies and genealogy projects* that identify
-cemeteries no longer visible on the landscape.
