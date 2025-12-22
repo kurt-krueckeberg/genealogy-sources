@@ -2,10 +2,12 @@
 
 The *Division of Historic Preservation & Archaeology (DHPA)* of the *Indiana Department of Natural Resources (DNR)*
 maintains a Cemetery & Burial Ground Registry for all Indiana cemeteries and burial grounds, not just “historic”
-cemeteries. Navigation:
+cemeteries. 
+
+Navigate to:
 //See its link:https://www.in.gov/dnr/historic-preservation/cemeteries/[Cemeteries page]. 
 
-link:https://www.in.gov/dnr/historic-preservation/[Indiana Depart of Natural Resources] -> 
+link:https://www.in.gov/dnr/historic-preservation/[Indiana Department of Natural Resources] -> 
 link:https://www.in.gov/dnr/historic-preservation/cemeteries[Cemeteries] ->
 link:https://www.in.gov/dnr/historic-preservation/county-survey-program/shaard-database[Indiana State Historic
 Architectural and Archaeological Research Database (SHAARD) and Indiana Historic Buildings, Bridges, and Cemeteries
