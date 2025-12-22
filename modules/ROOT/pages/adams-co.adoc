@@ -1,5 +1,6 @@
-= Adams County, Indiana
+= Adams County, Indiana, Guides
 
-* InGenWeb for http://ingenweb.org/inadams/[Adams County]
-
-* Cemetery Records fo Adams County on https://www.ancestry.com/imageviewer/collections/30075/images/dvm_LocHist013700-00001-0?pId=2000000000[Ancestry]
+* link:http://ingenweb.org/inadams/[Adams County INGenweb] website
+* Cemetery Records fo Adams County on
+  https://www.ancestry.com/imageviewer/collections/30075/images/dvm_LocHist013700-00001-0?pId=2000000000[Ancestry.com].
+Require subscription.
