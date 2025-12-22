@@ -1,7 +1,7 @@
 site:
   title: Krückeberg and Bleeke Genealogy Research Topics
   # the 404 page and sitemap files only get generated when the url property is set
-  url: https://krueckeberg.gitlab.io/genealogy
+# url: https://krueckeberg.gitlab.io/genealogy
   start_page: genealogy-srcs::index.adoc
 content:
   sources:
@@ -17,8 +17,8 @@ asciidoc:
     idprefix: ""
     idseparator: "-"
     page-pagination: ""
+    allow-uri-read: "yes"
 #   extensions:
-#     - "@antora/lunr-extension"
 #     - '@antora/pdf-extension'
 antora:
   extensions:
@@ -27,8 +27,7 @@ ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
     snapshot: true
-      docs.antora.org
-      antora-playbook.yml
+  supplemental_files: ./antora-supplemental-ui
 # I copied these last two lines from https://gitlab.com/antora/docs.antora.org/-/blob/main/antora-playbook.yml
 # because Gitlab Pages requires your static site's build process output files to be in a folder call "public".
 output:
