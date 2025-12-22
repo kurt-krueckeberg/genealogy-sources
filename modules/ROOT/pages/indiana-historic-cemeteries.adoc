@@ -41,3 +41,4 @@ Historic Buildings, Bridges, and Cemeteries (IHBBC) Map].
 . Go the area just north of the intersection of Wayne Trace with I-469.
 . Enlarge the view of the area just north of the intersection
 . Wait! It takes a while before the icons show up.
+. Click on the triangle labeled *CR-02-53*. This will give details about the cemetery.
