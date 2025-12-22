@@ -1,5 +1,4 @@
 = FamilySearch wiki German Research Section
-:page-role: wide
 
 General:
 
@@ -103,23 +102,26 @@ forums and how- to videos http://www.compgen.de/kommunizieren/
 
 - https://gedbas.genealogy.net/?lang=en[GEDBAS Surname Database Search]
 
-  Description:
+[quote]
+____
+Description:
 
-  The term GEDBAS is a fantasy term and can, for example, be interpreted as an abbreviation for genealogical data base .
+The term GEDBAS is a fantasy term and can, for example, be interpreted as an abbreviation for genealogical data base .
 
-  Every family researcher can contribute his research results, everyone can query the database.
+Every family researcher can contribute his research results, everyone can query the database.
 
-  The GEDBAS project was launched by the Verein für Computergenealogie eV . It is intended to help researchers in Germany to
-  find contacts with other interested researchers and to exchange results. Unlike FOKO, concrete data is also published here.
-  Inquiries by email or post no longer have to be made in every case, since those who are interested in the names can already
-  tell when searching in the database whether the research results are of interest to them or not.
+The GEDBAS project was launched by the Verein für Computergenealogie eV . It is intended to help researchers in Germany to
+find contacts with other interested researchers and to exchange results. Unlike FOKO, concrete data is also published here.
+Inquiries by email or post no longer have to be made in every case, since those who are interested in the names can already
+tell when searching in the database whether the research results are of interest to them or not.
+____
 
 * GenWiki: Includes articles on many German genealogy-related topics
 http://wiki- de.genealogy.net/Hauptseite
 
 * https://nvk.genealogy.net/map[German Surname Distribution Map]
 
-  Enables you to map the primary locations your surname was found in 1890 and 1996
+ Enables you to map the primary locations your surname was found in 1890 and 1996
 
 
 *Geogen:* This is another website to map locations where your surnames
