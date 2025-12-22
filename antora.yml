@@ -1,7 +1,7 @@
-name: genealogy sources
+name: genealogy-srcs
 title: Genealogy Sources
-version: '0.5' 
-start_page: genealogy-srcs::index.adoc
+#version: '0.5' 
+version: '1.0' 
 asciidoc:
   attributes:
     source-language: asciidoc@
