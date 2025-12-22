@@ -1,0 +1,7 @@
+= Genealogy Sources
+
+This is a github.com repository that was started in October, 2022, that may have important 
+genealogical sources to review; however, as of December 22, 2025, it does not compile using:
+`npx antora local-playbook.yml`.
+
+

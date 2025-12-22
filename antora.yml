@@ -8,4 +8,4 @@ asciidoc:
     table-caption: false
 nav:
   - modules/ROOT/nav-top.adoc
-  - modules/churches/nav-churches.adoc
+# - modules/churches/nav-churches.adoc

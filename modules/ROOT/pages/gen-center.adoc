@@ -1,8 +1,10 @@
+= Genealogy Center
+
 These database lists were taken from link:https://acpl.lib.in.us/explore-genealogy/our-resources[about Our Databses]
 
 List of https://acpl.lib.in.us/images/Documents/Gendocs/platmap.pdf[Allen County Plat books] in Genalogy Center. some have links to onloine versions from specific years.
 
-=== Free Databases:
+== Free Databases:
 
 .free databases
 [cols="1,2",frame="none",grid="rows"]
@@ -47,7 +49,7 @@ Also featured are images from the Firefighter Collection and local wills.
 |The Allen County Public Library’s Community Album spotlights the history of our northeast Indiana community as highlighted in photographs, print, and video. This virtual scrapbook continues to grow with contributions from the Community.
 |===
 
-=== On-site Databases:
+== On-site Databases:
 
 .onsite databases
 [cols="1,2",frame="none",grid="rows"]
@@ -124,7 +126,7 @@ Also featured are images from the Firefighter Collection and local wills.
 |The Slavery and Anti-Slavery database is a rare historical archive of court records, maps, books, newspapers, and periodicals from the United States, Latin America, the Caribbean, Africa, and Europe specific to the topics of slavery, abolition, and emancipation.
 |===
 
-=== Genealog Center's Microtext Land Record Catalog for Allen County IN
+== Genealog Center's Microtext Land Record Catalog for Allen County IN
 
 [cols="1,2,1,1,1",frame="none",grid="rows"]
 |===
@@ -147,9 +149,9 @@ Also featured are images from the Firefighter Collection and local wills.
 |Allen|Mortgages 1846-1886|18|35mm Film|Indiana
 |===
 
-=== Allen County Resource Online
+== Allen County Resource Online
 
-==== Allen County City Directories
+=== Allen County City Directories
 
 The Genealogy Center's collection of Allen county, Indiana, Directories, which begins with the 1858-1859 edition up to and through 1923 edition, have been digitized by Archive.org and are avilable online.
 

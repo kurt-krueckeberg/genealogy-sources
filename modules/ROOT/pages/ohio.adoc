@@ -1,7 +1,9 @@
+= Ohio Sources
+
 - https://www.rbhayes.org/main/ohio-obituary-index/[Ohio Obituary Index]
 - https://acpl.lib.in.us/images/Documents/Gendocs/States/Ohio_SG-2022.pdf[Genalogy Center Ohio State Guide]
 
-=== Median County, Ohio
+== Median County, Ohio
 
 - https://www.familysearch.org/en/wiki/Medina_County,_Ohio_Genealogy[FamilySearch wiki -> Medina County]
   - Note: Marriage records and probate date from 1818, but birth and death date to 1867.
@@ -50,12 +52,12 @@ You may want to study local histories for areas such as the Maumee, Miami, Hocki
 Online Ohio Historical Society's https://digital*collections.columbuslibrary.org/digital/collection/genealogy/id/70300/[Surname Index].
 Bibliography of Local Histories
 
-=== Williams County Ohio
+== Williams County Ohio
 
 - FamilySearch digital copy of https://www.familysearch.org/library/books/viewer/797591/?offset=6#page=1&viewer=picture&o=&n=0&q=[County of Williams, Ohio, Historical and Biographical]
 - https://www.familysearch.org/library/books/records/item/797591-county-of-williams-ohio-historical-and-biographical[Platt Book of Williams County, Ohio]
 
-=== Defiance County Ohio
+== Defiance County Ohio
 
 - https://www.familysearch.org/library/books/viewer/508162/?offset=&return=1#page=1&viewer=picture&o=&n=0&q=o[Defiance County, Ohio : a collection of historical sketches and family histories compiled by members and friends of the Defiance County Historical Society]
 - https://www.familysearch.org/library/books/viewer/552536/?offset=&return=1#page=1&viewer=picture&o=&n=0&q=[History of Defiance County, Ohio : containing a history of the County ; its townships, towns, etc. ; military record ; portraits of early settlers and prominent men ]
