@@ -1,6 +1,6 @@
 = Niedersachsen Sources
 
-- link:https://www.familienkunde-niedersachsen.de/[Familienkund Nidersachsen]
+- link:https://www.familienkunde-niedersachsen.de/[Familienkund Niedersachsen]
 - link:https://www.familysearch.org/de/wiki/Niedersachsen_Genealogie[FamilySearch:German Version:Nidersachsen Genealogie]
 - link:https://nla.niedersachsen.de/startseite/benutzung/nutzliche_hilfsmittel/-85855.html[Niedersächsisches Landesarchiv:Guide to Family Research:German] 	 
 - link:https://forum.ahnenforschung.net/forumdisplay.php?f=20[Niedersachsen Genealogie Forunm ]
