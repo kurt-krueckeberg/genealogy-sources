@@ -1,6 +1,6 @@
 = Nordrhein Westfalen
 
-* link:https://www.archive.nrw.de/en[Archiv in Nordrhein Westfalen]
-* Nordrhein Westfalen link:https://www.archive.nrw.de/en/landesarchiv-nrw/geschichte-erfahren/familienforschung/digital-family-research[Digital Family Research]
+* link:https://www.archive.nrw.de/en[Archives in Nordrhein Westfalen]
+* Doing link:https://www.archive.nrw.de/en/landesarchiv-nrw/geschichte-erfahren/familienforschung/digital-family-research[Nordrhein Westfalen Digital Family Research]
 
  
