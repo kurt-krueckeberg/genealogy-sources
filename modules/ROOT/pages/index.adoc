@@ -25,19 +25,19 @@ has townships histories, but no biographical sketches of individuals who emigrat
   *Slocum, Charles Elihu, 1841-1915; Robertson, R. Stoddart, 1839-* is three volumes, and the third is devoted exclusively to biographical sketeches.
 +
 The https://www.familysearch.org/library/books/[FamilySearch Digital Libaray] has all three volumes: 
-** http://www.familysearch.org/library/books/idurl/1/440041[volume 1]
-** http://www.familysearch.org/library/books/idurl/1/46624[volume 2] discusses education, Luthereran churches, various organinzations, etc.
-** http://www.familysearch.org/library/books/idurl/1/142390[volume 3] has biographical sketches that include:
-*** Baade, Christian
-*** Beerman, Henry
-*** Dunkelberg ?
-*** Fahlsing, Frederick W, born in Minden, Germany. His parents emigrated in 1844, settled in Preble twp, AdaMs CO.
-*** Getz
-*** Hartzell
-*** Klaehn
-*** Niezer
-*** Stellhorn
-*** Thieme, Theodore F, Druggest
+* http://www.familysearch.org/library/books/idurl/1/440041[volume 1]
+* http://www.familysearch.org/library/books/idurl/1/46624[volume 2] discusses education, Luthereran churches, various organinzations, etc.
+* http://www.familysearch.org/library/books/idurl/1/142390[volume 3] has biographical sketches that include:
+** Baade, Christian
+** Beerman, Henry
+** Dunkelberg ?
+** Fahlsing, Frederick W, born in Minden, Germany. His parents emigrated in 1844, settled in Preble twp, AdaMs CO.
+** Getz
+** Hartzell
+** Klaehn
+** Niezer
+** Stellhorn
+** Thieme, Theodore F, Druggest
 
 === Land Tools
 
