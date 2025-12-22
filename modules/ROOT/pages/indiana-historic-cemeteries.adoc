@@ -5,7 +5,7 @@ the link:https://www.in.gov/dnr/historic-preservation/[Division of Historic Pres
 *Cemetery & Burial Ground Registry* for all Indiana cemeteries and burial grounds, not just “historic” cemeteries. 
 
 Navigate to link:https://www.in.gov/dnr/historic-preservation/[Indiana Department of Natural Resources] -> 
-link:https://www.in.gov/dnr/historic-preservation/cemeteries[Cemeteries]. You will find a link to
+link:https://www.in.gov/dnr/historic-preservation/cemeteries[Cemeteries], and you will find a link to
 
 * The *Indiana State Historic Architectural and Archaeological Research Database (SHAARD)*, and
 * The *Indiana Historic Buildings, Bridges, and Cemeteries (IHBBC) Map*. 
