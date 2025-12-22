@@ -71,17 +71,20 @@ these books digitized and online https://ofb.genealogy.net/[Ortsippenbücher].
 
 * https://ofb.genealogy.net/[CompGen Collection of Online Ortsfamilienbücher]
 
-  From the https://www.compgen.de/portfolio-item/db-ortsfamilienbuecher/[The CompGen description]:
+From the https://www.compgen.de/portfolio-item/db-ortsfamilienbuecher/[The CompGen description]:
 
-  Contents:
-  
-  A  local family book  ( abbreviated: OFB, formerly also local family book / OSB ) is a personal historical  secondary source, in which the entire population of a place that can be found in the sources (usually: church books) is listed with their biographical data and usually the direct genealogical connections as well as further information (e.g. occupation, house). Here you can find individual people, mother-child relationships and, above all, entire nuclear families (parents and their children) sorted by family name. In most printed OFBs and in all online OFBs, reference numbers to the families of origin and marriage are given, so that the entire family network can be determined from an OFB, insofar as it is limited to the location examined.
+[quote]
+____
+Contents:
 
-  The primary sources that are used for the processing of a local family book are usually the  church registers , from which at least the entries on baptism, marriage and burial are transferred, often also information on godparents and witnesses. However, all other primary sources of personal history of spiritual or secular origin can be used to edit a local family book, as well as secondary sources that have already been published, such as local family books from neighboring communities.
+A local family book  ( abbreviated: OFB, formerly also local family book / OSB ) is a personal historical  secondary source, in which the entire population of a place that can be found in the sources (usually: church books) is listed with their biographical data and usually the direct genealogical connections as well as further information (e.g. occupation, house). Here you can find individual people, mother-child relationships and, above all, entire nuclear families (parents and their children) sorted by family name. In most printed OFBs and in all online OFBs, reference numbers to the families of origin and marriage are given, so that the entire family network can be determined from an OFB, insofar as it is limited to the location examined.
 
- Extent of Database:
+The primary sources that are used for the processing of a local family book are usually the  church registers , from which at least the entries on baptism, marriage and burial are transferred, often also information on godparents and witnesses. However, all other primary sources of personal history of spiritual or secular origin can be used to edit a local family book, as well as secondary sources that have already been published, such as local family books from neighboring communities.
 
- Over 1,000 local family books are available online. On average, 5 to 10 new books are added every month.
+Extent of Database:
+
+over 1,000 local family books are available online. On average, 5 to 10 new books are added every month.
+____
 
 == CompGen and Verein für Computergenealogie
 
