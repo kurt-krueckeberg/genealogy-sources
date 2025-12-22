@@ -1,39 +1,10 @@
 = Indiana Historic Cemeteries
 
-The *Indiana Department of Natural Resources (DNR)'s* *Division of Historic
-Preservation & Archaeology (DHPA)* maintains a registry of cemeteries and
-burial grounds that includes known sites across the state, and this *does
-encompass historic cemeteries, including those that _formerly existed_* if their
-locations have been documented.
-(https://www.in.gov/dnr/historic-preservation/cemeteries/?utm_source=chatgpt.com[Government
-of Indiana])
+The *Indiana Department of Natural Resources (DNR)'s* *Division of Historic Preservation & Archaeology (DHPA)*
+maintains a Cemetery & Burial Ground Registry for all Indiana cemeteries and burial grounds, not just “historic”
+cemeteries. See its link:https://www.in.gov/dnr/historic-preservation/cemeteries/[Cemeteries page]. 
 
-Here are the key points you should know:
-
-== 1. _Cemetery & Burial Ground Registry_
-
-* The DHPA maintains a *Cemetery & Burial Ground Registry* covering
-*cemeteries and burial grounds throughout Indiana*.
-* This registry *is not limited to actively used cemeteries* — it
-includes *historic burial sites* whose locations and attributes have
-been documented, even if they are no longer in use or the headstones
-have deteriorated.
-(https://www.in.gov/dnr/historic-preservation/cemeteries/?utm_source=chatgpt.com[Government
-of India])
-
-== 2. *Inclusion of Historic and Former Cemeteries*
-
-* The registry is intended to document *all known cemeteries and burial
-grounds in each county*, regardless of size, condition, or whether they
-are currently maintained.
-* This means *some cemeteries that existed in the late 19th and early
-20th centuries — including those no longer visible or in active use —
-can be recorded in the state database* _if they were identified and
-surveyed_.
-(https://law.justia.com/codes/indiana/title-14/article-21/chapter-1/section-14-21-1-13-5/?utm_source=chatgpt.com[Justia
-Law])
-
-== 3. *How To Access the Data*
+== *How To Access the Data*
 
 * Cemetery information, including historic and former cemetery entries,
 is available through the *Indiana State Historic Architectural and
@@ -44,7 +15,7 @@ of India])
 location information, descriptive data, and sometimes survey forms and
 general condition notes.
 
-== 4. *Mapping Tools*
+== *Mapping Tools*
 
 * Some cemetery locations (including historic ones) are shown on the
 *Indiana Historic Buildings, Bridges, and Cemeteries (IHBBC) Map*, a GIS
@@ -57,7 +28,7 @@ entry without a point on the map.
 (https://www.in.gov/dnr/historic-preservation/cemeteries/?utm_source=chatgpt.com[Government
 of India])
 
-== 5. *Supplemental Sources*
+== *Supplemental Sources*
 
 In addition to the DNR/DHPA registry, you may find information about
 historic and former cemeteries from other Indiana sources that compile
@@ -72,17 +43,3 @@ historic cemetery entries statewide.
 (https://cemeteryregistry.us/find-a-cemetery/indiana-cemeteries?utm_source=chatgpt.com[CemeteryRegistry.US])
 * *Local historical societies and genealogy projects* that identify
 cemeteries no longer visible on the landscape.
-
-== Summary
-
-*Yes — the Indiana DNR (via DHPA) maintains a registry that includes
-historic cemeteries and burial grounds, including many that originated
-in the 19th and early 20th centuries, even if they are no longer extant
-on the surface or in active use.* These are accessible through SHAARD
-and, for mapped sites, through the IHBBC GIS viewer.
-(https://www.in.gov/dnr/historic-preservation/cemeteries/?utm_source=chatgpt.com[Government
-of India])
-
-If you want, I can provide *step-by-step instructions for how to search
-SHAARD for historic cemeteries* or point you toward how to access
-*county-level cemetery listings* for a specific county in Indiana.
