@@ -506,11 +506,8 @@ holding a more specifically regional:
 - http://www.archiv-ekkw.de/[Landeskirchliches Archiv der Evangelischen
 Kirche von Kurhessen-Waldeck]
 
-== Record Sources
+== Rodheim Sources
 
-- Sankt Johannis Gemeinde
-- Land Records
-- Probate
 - Rodheim
 ** https://dekanat-giessen.ekhn.de/gemeinden/rodheim-vetzberg.html
 ** https://www.biebertal.de/infos-tipps/gemeindedaten/geschichte/geschichte-fellingshausencopy-130copy.html
