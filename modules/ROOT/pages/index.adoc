@@ -24,7 +24,7 @@ has townships histories, but no biographical sketches of individuals who emigrat
 * https://www.familysearch.org/library/books/records/?navigation=&perpage=&page=1&sort=_score&search=History+of+the+Maumee+River+Basin&fulltext=1&bookmarks=0#title[History of the Maumee River Basin], by 
   *Slocum, Charles Elihu, 1841-1915; Robertson, R. Stoddart, 1839-* is three volumes, and the third is devoted exclusively to biographical sketeches.
 +
-  The https://www.familysearch.org/library/books/[FamilySearch Digital Libaray] has all three volumes: 
+The https://www.familysearch.org/library/books/[FamilySearch Digital Libaray] has all three volumes: 
 ** http://www.familysearch.org/library/books/idurl/1/440041[volume 1]
 ** http://www.familysearch.org/library/books/idurl/1/46624[volume 2] discusses education, Luthereran churches, various organinzations, etc.
 ** http://www.familysearch.org/library/books/idurl/1/142390[volume 3] has biographical sketches that include:
