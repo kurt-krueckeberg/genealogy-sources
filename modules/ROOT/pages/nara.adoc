@@ -4,7 +4,7 @@ National Archives Records Adminstration (NARA) genealogy-related links:
 
 * https://www.archives.gov/research/genealogy[Resources for Genealogists]
 * https://www.archives.gov/research/immigration[NARA Immigrant Records] has links related to:
-** includes https://www.archives.gov/research/immigration/passenger-arrival.html[Passenger Arrival Records]
+** https://www.archives.gov/research/immigration/passenger-arrival.html[Passenger Arrival Records]
 ** Naturalization Records
 ** Visa Records
 ** Alien Files
