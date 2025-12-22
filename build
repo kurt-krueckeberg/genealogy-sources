@@ -26,14 +26,7 @@ cd /home/kurt/genealogy-sources
 npx --max-old-space-size=4096 antora local-playbook.yml
 
 #
-# 4. COPY FONTS
-#
-echo "Copying fonts..."
-cp /home/kurt/genealogy-sources/fonts/* \
-   /home/kurt/genealogy-sources/public/_/font/
-
-#
-# 5. DEPLOY TO WEB DIRECTORY
+# 4. DEPLOY TO WEB DIRECTORY
 # (kurt must own this directory — no sudo in automated scripts)
 #
 echo "Deploying to /var/www/krueckeberg.org/nla..."
