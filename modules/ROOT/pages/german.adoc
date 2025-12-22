@@ -1,4 +1,5 @@
 = FamilySearch wiki German Research Section
+:page-role: wide
 
 General:
 
