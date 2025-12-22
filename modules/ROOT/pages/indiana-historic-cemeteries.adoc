@@ -8,7 +8,7 @@ Navigate to link:https://www.in.gov/dnr/historic-preservation/[Indiana Departmen
 link:https://www.in.gov/dnr/historic-preservation/cemeteries[Cemeteries]. You will find a link to
 
 * The *Indiana State Historic Architectural and Archaeological Research Database (SHAARD)*, and
-* *Indiana Historic Buildings, Bridges, and Cemeteries (IHBBC) Map*. 
+* The *Indiana Historic Buildings, Bridges, and Cemeteries (IHBBC) Map*. 
 
 The link:https://www.in.gov/dnr/historic-preservation/cemeteries[Cemeteries] page has line to the
 The data is also linked to the Indiana Historic Buildings, Bridges, and Cemeteries (IHBBC) Map
