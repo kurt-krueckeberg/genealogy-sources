@@ -2,7 +2,7 @@
 
 == Plat Books
 
-link:https://acpl.lib.in.us/images/Documents/Gendocs/platmap.pdf[Allen County Plat books].
+Spreadsheet with URLS of link:https://acpl.lib.in.us/images/Documents/Gendocs/platmap.pdf[Allen County Plat books].
 
 == Free Databases:
 
