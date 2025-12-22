@@ -1,5 +1,4 @@
 = Genealogical Sources
 
-This repository lists genealogical sources for Allen and Adams Counties, Indiana, and well as Germany. 
-It is written in https://docs.asciidoctor.org/asciidoc/latest/[Asciidoc] and requires the https://github.com/darshandsoni/asciidoctor-skins[Asciidoc Skins repository] `.css` files
-in the `./skins` subdir.
+This repository was put together back in 2022. It lists various genealogical sources for Allen and Adams Counties, Indiana, as well as Germany.
+It needs to be much better organized, pruned and reviewed.
