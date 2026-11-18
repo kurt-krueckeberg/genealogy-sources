@@ -2,3 +2,20 @@
 
 This repository was put together back in 2022. It lists various genealogical sources for Allen and Adams Counties, Indiana, as well as Germany.
 It needs to be much better organized, pruned and reviewed.
+
+== Deploy to Cloudflare
+
+The site is a Cloudflare Worker named `genealogy-sources` that serves the HTML
+Antora writes to `./public` (see `wrangler.jsonc`). Cloudflare builds it from
+this repository on every push to `main`, with these settings
+(Worker -> Settings -> Build):
+
+[cols="1,2"]
+|===
+|Build command |`npm install && npx antora local-playbook.yml`
+|Deploy command |`npx wrangler deploy`
+|Root directory |`/`
+|===
+
+Cloudflare serves no file larger than 25 MiB, so keep every image and
+attachment under that size.
